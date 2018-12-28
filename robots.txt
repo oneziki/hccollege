@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow:
+Allow: /www.hcvarsity.co.za/
+Allow: /www.hcvarsity.co.za/about-us.html
+Allow: /www.hcvarsity.co.za/business-studies.html
+Allow: /www.hcvarsity.co.za/financial-studies.html
+Allow: /www.hcvarsity.co.za/computer-studies.html
+Allow: /www.hcvarsity.co.za/tourism-hospitality-studies.html
+Allow: /www.hcvarsity.co.za/educare.html
+Allow: /www.hcvarsity.co.za/english-programmes.html
+Allow: /www.hcvarsity.co.za/distance-learning.html
+Allow: /www.hcvarsity.co.za/course-dates.html
+Allow: /www.hcvarsity.co.za/online-application.html
+Allow: /www.hcvarsity.co.za/online-application-distance.html
+Allow: /www.hcvarsity.co.za/testimonials.html
+Allow: /www.hcvarsity.co.za/exam-centre.html
+Allow: /www.hcvarsity.co.za/student-life.html
+Allow: /www.hcvarsity.co.za/contact.html
+Allow: https://online.webceo.com/submission/smaps/79cfcd58.xml.gz
+
+Allow: /www.hcvarsity.co.za/sitemap.xml
